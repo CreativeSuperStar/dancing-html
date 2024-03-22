@@ -1,0 +1,26 @@
+.intro {
+    position: relative;
+    .video-wide{
+        width:-webkit-fill-available;
+    }
+    .intro-text {
+        position: absolute;
+        top: 67%;
+        left: 4.2%;
+        font-size: 5rem;
+        color: $base_color;
+    }
+    .intro-bottom-text {
+        font-size: 3rem;
+        position: absolute;
+        left: 4.2%;
+        top: 80%;
+        color: $base_color;
+    }
+}
+
+.info-intro {
+    position: relative;
+    
+
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=RocknRoll+One&display=swap');
+
+@font-face {
+    font-family: 'Korolev';
+    src: url('Korolev-Bold.otf');
+    src: local('Korolev'), local('Korolev Bold'), url('Korolev-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Korolev';
+    src: url('Korolev-Heavy.otf');
+    src: local('Korolev'), local('Korolev Heavy'), url('Korolev-Heavy.otf');
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Korolev';
+    src: url('Korolev-Medium.otf');
+    src: local('Korolev'), local('Korolev Medium'), url('Korolev-Medium.otf');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Korolev';
+    src: url('Korolev-Light.otf');
+    src: local('Korolev'), local('Korolev Light'), url('Korolev-Light.otf');
+    font-weight: 300;
+    font-style: normal;
+  }
